@@ -50,6 +50,10 @@ header .container, section .container {
     margin: 0 auto;
 }
 
+li a {
+    text-decoration: none;
+}
+
 section .container {
     align-items: center;
 }
